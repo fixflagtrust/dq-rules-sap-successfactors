@@ -6,6 +6,7 @@ Stay tuned as we scale to support Finance, CRM, Supply Chain, and more.
 ## 📁 Repository Structure
 
 - `data/` – Bad data examples per rule,Cleaned recordsSample reference values
+- Rules- Core Rule that covers SAP sucessfactor inline with DQ framework of DAMA
 - `analytics_readiness/` – AI/Analytics use case guide
 
 ## 💡 Vision

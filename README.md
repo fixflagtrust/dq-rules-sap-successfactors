@@ -5,10 +5,7 @@ Stay tuned as we scale to support Finance, CRM, Supply Chain, and more.
 
 ## 📁 Repository Structure
 
-- `data/` – Core DQ rules
-- `violations/` – Bad data examples per rule
-- `remediated/` – Cleaned records
-- `reference/` – Sample reference values
+- `data/` – Bad data examples per rule,Cleaned recordsSample reference values
 - `analytics_readiness/` – AI/Analytics use case guide
 
 ## 💡 Vision

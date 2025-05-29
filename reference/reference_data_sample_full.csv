@@ -1,0 +1,113 @@
+Entity,Reference Value Example
+Time Profile,"Example 1: Format does not meet standard (e.g., missing @ in email)"
+Cost Center,Example 2: Value does not match reference data
+Email,"Example 3: Format does not meet standard (e.g., missing @ in email)"
+Cost Center,Example 4: Entity ID duplicated across records
+Gender,Example 5: Date field is before expected lower limit
+Time Profile,Example 6: Entity ID duplicated across records
+Time Profile,Example 7: Field is missing for active employee
+Email,Example 8: Value does not match reference data
+Nationality,Example 9: Date field is before expected lower limit
+Contract Dates,Example 10: Field is missing for active employee
+Manager ID,Example 11: Field is missing for active employee
+Time Profile,Example 12: Hierarchical data shows circular references
+Cost Center,Example 13: Entity ID duplicated across records
+Position Assignment,Example 14: Field is missing for active employee
+Manager ID,Example 15: Value does not match reference data
+Time Profile,Example 16: Value does not match reference data
+Cost Center,Example 17: Date field is before expected lower limit
+Email,Example 18: Field is missing for active employee
+Time Profile,"Example 19: Format does not meet standard (e.g., missing @ in email)"
+Position Assignment,Example 20: Value does not match reference data
+Nationality,Example 21: Field is missing for active employee
+Position Assignment,Example 22: Value does not match reference data
+Gender,Example 23: Hierarchical data shows circular references
+Gender,Example 24: Entity ID duplicated across records
+Cost Center,Example 25: Entity ID duplicated across records
+Phone Number,Example 26: Date field is before expected lower limit
+Time Profile,Example 27: Hierarchical data shows circular references
+Time Profile,Example 28: Entity ID duplicated across records
+Contract Dates,Example 29: Hierarchical data shows circular references
+Nationality,"Example 30: Format does not meet standard (e.g., missing @ in email)"
+Cost Center,"Example 31: Format does not meet standard (e.g., missing @ in email)"
+Phone Number,Example 32: Entity ID duplicated across records
+Nationality,Example 33: Entity ID duplicated across records
+Job Title,Example 34: Value does not match reference data
+Time Profile,Example 35: Entity ID duplicated across records
+Cost Center,Example 36: Entity ID duplicated across records
+Job Title,Example 37: Value does not match reference data
+Manager ID,Example 38: Date field is before expected lower limit
+Manager ID,Example 39: Field is missing for active employee
+Time Profile,Example 40: Field is missing for active employee
+Phone Number,Example 41: Value does not match reference data
+Position Assignment,Example 42: Hierarchical data shows circular references
+Position Assignment,Example 43: Date field is before expected lower limit
+Gender,Example 44: Date field is before expected lower limit
+Gender,Example 45: Date field is before expected lower limit
+Contract Dates,Example 46: Hierarchical data shows circular references
+Cost Center,Example 47: Entity ID duplicated across records
+Gender,Example 48: Hierarchical data shows circular references
+Manager ID,Example 49: Field is missing for active employee
+Contract Dates,Example 50: Entity ID duplicated across records
+Nationality,Example 51: Field is missing for active employee
+Phone Number,Example 52: Value does not match reference data
+Phone Number,Example 53: Date field is before expected lower limit
+Position Assignment,"Example 54: Format does not meet standard (e.g., missing @ in email)"
+Gender,"Example 55: Format does not meet standard (e.g., missing @ in email)"
+Contract Dates,"Example 56: Format does not meet standard (e.g., missing @ in email)"
+Contract Dates,Example 57: Field is missing for active employee
+Email,Example 58: Value does not match reference data
+Time Profile,Example 59: Date field is before expected lower limit
+Job Title,Example 60: Entity ID duplicated across records
+Job Title,"Example 61: Format does not meet standard (e.g., missing @ in email)"
+Nationality,Example 62: Date field is before expected lower limit
+Nationality,Example 63: Entity ID duplicated across records
+Cost Center,Example 64: Value does not match reference data
+Nationality,"Example 65: Format does not meet standard (e.g., missing @ in email)"
+Job Title,Example 66: Entity ID duplicated across records
+Job Title,Example 67: Value does not match reference data
+Nationality,Example 68: Hierarchical data shows circular references
+Position Assignment,Example 69: Hierarchical data shows circular references
+Cost Center,Example 70: Hierarchical data shows circular references
+Manager ID,Example 71: Value does not match reference data
+Cost Center,Example 72: Value does not match reference data
+Contract Dates,Example 73: Hierarchical data shows circular references
+Time Profile,"Example 74: Format does not meet standard (e.g., missing @ in email)"
+Email,Example 75: Hierarchical data shows circular references
+Contract Dates,Example 76: Date field is before expected lower limit
+Phone Number,Example 77: Value does not match reference data
+Phone Number,Example 78: Entity ID duplicated across records
+Time Profile,"Example 79: Format does not meet standard (e.g., missing @ in email)"
+Email,Example 80: Hierarchical data shows circular references
+Gender,Example 81: Field is missing for active employee
+Manager ID,Example 82: Entity ID duplicated across records
+Phone Number,Example 83: Value does not match reference data
+Gender,Example 84: Value does not match reference data
+Manager ID,Example 85: Value does not match reference data
+Manager ID,Example 86: Date field is before expected lower limit
+Nationality,Example 87: Date field is before expected lower limit
+Job Title,Example 88: Date field is before expected lower limit
+Contract Dates,Example 89: Date field is before expected lower limit
+Position Assignment,"Example 90: Format does not meet standard (e.g., missing @ in email)"
+Nationality,Example 91: Hierarchical data shows circular references
+Contract Dates,Example 92: Field is missing for active employee
+Contract Dates,Example 93: Field is missing for active employee
+Gender,Example 94: Value does not match reference data
+Phone Number,Example 95: Field is missing for active employee
+Position Assignment,Example 96: Field is missing for active employee
+Job Title,Example 97: Hierarchical data shows circular references
+Time Profile,Example 98: Date field is before expected lower limit
+Gender,Example 99: Hierarchical data shows circular references
+Job Title,Example 100: Field is missing for active employee
+Time Profile,Example 101: Entity ID duplicated across records
+Manager ID,"Example 102: Format does not meet standard (e.g., missing @ in email)"
+Time Profile,Example 103: Field is missing for active employee
+Phone Number,Example 104: Field is missing for active employee
+Contract Dates,Example 105: Field is missing for active employee
+Job Title,Example 106: Value does not match reference data
+Cost Center,Example 107: Field is missing for active employee
+Job Title,Example 108: Field is missing for active employee
+Phone Number,Example 109: Value does not match reference data
+Contract Dates,Example 110: Value does not match reference data
+Time Profile,Example 111: Field is missing for active employee
+Manager ID,Example 112: Field is missing for active employee
